@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Hiburan
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Magna channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1,VTV
+http://103.66.62.83:8000/play/a00c/index.m3u8
+#EXTINF:-1,baby shark
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,SINPO TV
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1,MBG TV
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+#EXTINF:-1,moonbug
+https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
+#EXTINF:-1,BBC kids
+https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Antara tv
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+#EXTINF:-1,sigma tv
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,takdir tv
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1,RRI NET
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
