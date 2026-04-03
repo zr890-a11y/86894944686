@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZRTV
-https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,VTV
