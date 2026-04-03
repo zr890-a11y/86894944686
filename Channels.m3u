@@ -23,3 +23,9 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1,MUSIC channel
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1,MDTV
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1,rcti
+https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1,gtv
+https://allcutv.rctiplus.id/gtv2023.m3u8
