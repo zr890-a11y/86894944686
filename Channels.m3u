@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZR
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775219349/ei/NV7PaZOWEJ_LssUP_rPIkQk/ip/2001:448a:7065:23e6:dce4:968c:32a8:b11c/id/nHeXL2We4EE.3/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/rqh/1/hls_chunk_host/rr3---sn-2uuxa3vh-hqjz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/id/bui/AUUZDGLVpGgLCKb2thBKofgWLQ7GVNAlM-uttchJ_P-XqbgZiDZC5ps6dg_jzaPd0vK8Uoxk3fR7OquC/spc/jlWavZem9999UVYPebgviqPO3lTcH9wmjX37Juiq23pqJgeCZg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/876250/met/1775197749,/mh/qM/mm/44/mn/sn-2uuxa3vh-hqjz/ms/lva/mv/m/mvi/3/pl/52/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1775197236/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgNd1gd6mwQTG0wDyp0BpJMdWWrzsaKMeQ6epM_EyzLrECIHp5foLNkiJzoiEFtFBL-1MvApQq5sUoXkR0J_QZGUFG/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgQ-WdhWJWjdFehusI8Rgk-heAS7MtEsdiEkXSHL1Nv90CIQDdAcM5y114fOtptcnRR5sIQL3wbeRnfpnY-ZijZ_HjBw%3D%3D/playlist/index.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,VTV
