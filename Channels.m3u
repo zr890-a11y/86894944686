@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZRTV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775251183/ei/j9rPaayRDq6DjuMPhoiSkQc/ip/2001:448a:7065:23e6:85e4:b060:addf:6576/id/GHRaO83lLc8.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/rqh/1/hls_chunk_host/rr1---sn-2uuxa3vh-hqjz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGLN9dLws0HYVxAfucFND4IYawhpd9DmLBbYBbEWyejiZFD2c_WpbltMZyp9sqaYNalrgajeueLK/spc/jlWavXLcueB2O2tMU0qfaWFqpCrraT1_gvku8nIhoLRSfo6tKg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/893750/met/1775229583,/mh/gF/mm/44/mn/sn-2uuxa3vh-hqjz/ms/lva/mv/m/mvi/1/pl/52/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1775229155/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgMFT5dL6PQulWNzUZ0gmSh9fI1Q5xbpVSWPh3JVy_kd8CIQDk7rOupmbo3Y_PtLVnLjd380Td8cafyMCRtY1iLUnFeQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgfP4-2UyeBRrTLxBpCWBbX2bA9u0LK8v01PAGt2FUfqECIBwHPXNVcEaaEm5WP4WGTzEZFxNZDHWGqxZhPzo_FslY/playlist/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,VTV
@@ -26,6 +26,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1,MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1,rcti
-https://allcutv.rctiplus.id/rcti2023.m3u8
+http://103.66.62.83:8000/play/a00v/index.m3u8
 #EXTINF:-1,gtv
-https://allcutv.rctiplus.id/gtv2023.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
