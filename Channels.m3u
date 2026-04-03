@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZRTV
-http://116.90.120.152:8000/play/a0gu/index.m3u8
+http://103.167.255.18:8085/play/a0k7/index.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,VTV
