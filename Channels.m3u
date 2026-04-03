@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZRTV
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,VTV
