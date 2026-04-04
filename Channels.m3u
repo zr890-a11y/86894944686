@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZRTV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775333788/ei/PB3RacPBMuj09fwP4KPfyQ4/ip/2001:448a:7065:23e6:1842:ec66:6072:2a6b/id/ka6yXHJgBlo.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr3---sn-2uuxa3vh-hqjs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGJRD1AvTujt84MeTbNYKNrOA4BWiw3pm0eJwNI97D7vI6R4FmDlYz1IgsjTiCRzTlAqSA5rhEpa/vprv/1/reg/0/playlist_type/DVR/initcwndbps/808750/met/1775312189,/mh/Db/mm/44/mn/sn-2uuxa3vh-hqjs/ms/lva/mv/m/mvi/3/pl/52/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1775311723/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,vprv,reg,playlist_type/sig/AHEqNM4wRQIgbxt0zKenItPhyJf06_KrN1d9uweS1lzoxfBXBFMxfSYCIQDWphtX6jPBwY-DlgEVPD4bVhpN1CudbhTdRKoEp9LbWg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAK58Q66jM_ROqTn_uYOh5vUqvmf6iIrikVHpy0FFvSE-AiBfh2NGpxdkslFrx1BOEC4L7oBO2If1a7fRDexqaoPWAg%3D%3D/playlist/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,VTV
