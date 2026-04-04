@@ -19,8 +19,8 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1,Bein sport xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1,moji
-https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1,sindonews
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1,Deluxe music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1,MDTV
