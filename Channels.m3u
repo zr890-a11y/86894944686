@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1,ZRTV
+#EXTM3U url="https://epg.pw/api/epg.xml?lang=en&date=20260404&channel_id=52406"
+#EXTINF:-1,tvg-id="52406" group-title="ZRTV",ZRTV
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
