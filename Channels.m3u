@@ -17,11 +17,11 @@ https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Antara tv
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
-#EXTINF:-1,sigma tv
+#EXTINF:-1,Bein sport xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1,takdir tv
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1,MUSIC channel
+#EXTINF:-1,moji
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1,Deluxe music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1,MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
